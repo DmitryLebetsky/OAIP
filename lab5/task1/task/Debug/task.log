@@ -1,0 +1,5 @@
+﻿  Source.cpp
+D:\Учёба\ОАиП\lab5\task1\task\Source.cpp(1,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\Учёба\ОАиП\lab5\task1\task\Source.cpp(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\Учёба\ОАиП\lab5\task1\task\Source.cpp(3,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  task.vcxproj -> D:\Учёба\ОАиП\lab5\task1\Debug\task.exe
