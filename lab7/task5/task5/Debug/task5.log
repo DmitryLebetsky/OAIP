@@ -1,0 +1,5 @@
+﻿  Source.cpp
+D:\Учёба\ОАиП\lab7\task5\task5\Source.cpp(1,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\Учёба\ОАиП\lab7\task5\task5\Source.cpp(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\Учёба\ОАиП\lab7\task5\task5\Source.cpp(40,66): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  task5.vcxproj -> D:\Учёба\ОАиП\lab7\task5\Debug\task5.exe

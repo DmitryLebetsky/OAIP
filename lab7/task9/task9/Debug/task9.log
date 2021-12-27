@@ -1,0 +1,5 @@
+﻿  Source.cpp
+D:\Учёба\ОАиП\lab7\task9\task9\Source.cpp(1,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\Учёба\ОАиП\lab7\task9\task9\Source.cpp(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\Учёба\ОАиП\lab7\task9\task9\Source.cpp(37,12): warning C4018: <: несоответствие типов со знаком и без знака
+  task9.vcxproj -> D:\Учёба\ОАиП\lab7\task9\Debug\task9.exe
